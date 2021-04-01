@@ -3,13 +3,13 @@
     {"id":1, "title": "install React", "type": "task", "column": "done"}, 
     {"id":2, "title": "create github", "type": "task", "column": "review"}, 
     {"id":3, "title": "add components", "type": "task", "column": "done"}, 
-    {"id":4, "title": "plan component diagram", "type": "feature", "column": "in-progress"}, 
+    {"id":4, "title": "plan component diagram", "type": "feature", "column": "in-progress"}
   ],
   "comments": [
   {"id": 1, "body": "some comment", "postId":1},
-  {"id": 2, "body": "some comment", "postId":1},
+  {"id": 2, "body": "some comment", "postId":1}
   ],
-  "profile":{
+  "profile": {
     "name": "typicode"
   }
 }
